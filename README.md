@@ -1,4 +1,4 @@
-- 👋 Hey, I’m Joseph Afolabi!
+- 👋 Hey, I’m Taiwo Joseph Afolabi!
 - 👀 I’m interested in Front-end Development and UI/UX Design.
 - 🌱 I’m currently studying to become a Full Stack Engineer with Love Circular's Software Engineering Bootcamp.
 - 💞️ I’m looking to collaborate on projects to further my skills and experience.
